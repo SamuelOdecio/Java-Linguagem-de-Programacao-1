@@ -1,4 +1,4 @@
-# Java - Linguagem de Programação 1
+# Java - Linguagem de Programação 1 Exercicios
  Repositorio de Exercicios feitos na materia de Linguagem de Programação 1
 
 
